@@ -5,7 +5,7 @@ This project aims to predict house prices based on their features like total squ
 
 ## Repository Structure
 - `data/`: Folder containing the training and test datasets.
-- `notebooks/`: Jupyter notebooks for data analysis and model development.
+- `House_Price_Prediction.ipynb`: Jupyter notebooks for data analysis and model development.
 - `README.md`: This file, providing an overview and instructions.
 
 ## Getting Started
