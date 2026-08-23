@@ -5,3 +5,4 @@ data/submission.csv
 .venv/
 venv/
 _site/
+.wiki-staging/
