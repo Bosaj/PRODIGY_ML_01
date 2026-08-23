@@ -6,6 +6,8 @@
 
 Task 01 of the Prodigy InfoTech Machine Learning internship: predict house sale prices from structural features using linear regression.
 
+An interactive Streamlit demo (`app.py`) trains the model live and lets you predict a price from square footage, bedrooms, and bathrooms — deployable in one click via [share.streamlit.io](https://share.streamlit.io) (point it at `app.py`).
+
 ## Overview
 
 Using the [House Prices — Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) dataset (Ames, Iowa housing data), this project engineers a total-living-area feature and fits a linear regression model to predict `SalePrice` from square footage, bedroom count, and bathroom count.
@@ -30,10 +32,17 @@ pip install -r requirements.txt
 ```
 
 ### Usage
+
+Interactive app:
+```bash
+streamlit run app.py
+```
+
+Original analysis notebook:
 ```bash
 jupyter notebook House_Price_Prediction.ipynb
 ```
-The notebook loads `data/train.csv` and `data/test.csv`, trains the model, and writes predictions to `data/submission.csv`.
+The notebook loads `data/train.csv` and `data/test.csv`, trains the model, and writes predictions to `data/submission.csv`. A [static rendering](https://bosaj.github.io/PRODIGY_ML_01/) of the notebook's outputs is also published via GitHub Pages.
 
 ## Testing / CI
 
@@ -46,6 +55,7 @@ PRODIGY_ML_01/
 ├── data/
 │   ├── train.csv
 │   └── test.csv
+├── app.py                       # Interactive Streamlit demo
 ├── House_Price_Prediction.ipynb
 └── requirements.txt
 ```
