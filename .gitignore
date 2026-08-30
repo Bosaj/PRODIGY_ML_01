@@ -6,3 +6,14 @@ data/submission.csv
 venv/
 _site/
 .wiki-staging/
+
+
+# Local Environment & Staging Security
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+.wiki-staging
+temp_*
