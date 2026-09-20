@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software or research code, please cite it as below."
+authors:
+  - family-names: "EL HADJI"
+    given-names: "Oussama"
+    orcid: ""
+title: "House Price Valuation & Advanced Regression"
+version: 1.0.0
+date-released: 2026-09-20
+url: "https://github.com/Bosaj/PRODIGY_ML_01"
+abstract: "Advanced regression and feature engineering pipeline for real estate valuation."
+keywords:
+  - machine-learning
+  - deep-learning
+  - data-science
+  - python
+license: MIT
