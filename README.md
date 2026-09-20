@@ -1,5 +1,9 @@
 # PRODIGY_ML_01
 
+<p align="center">
+  <img src="assets/social_preview.png" alt="PRODIGY_ML_01 Banner" width="100%">
+</p>
+
 ![CI Pipeline](https://github.com/Bosaj/PRODIGY_ML_01/actions/workflows/ci_qa_monitoring.yml/badge.svg)
 [![GitHub Wiki](https://img.shields.io/badge/Documentation-GitHub%20Wiki-blue.svg)](https://github.com/Bosaj/PRODIGY_ML_01/wiki)
 [![Quality Gate](https://img.shields.io/badge/Quality%20Gate-Passed-brightgreen.svg)](docs/MONITORING_AND_QA.md)
