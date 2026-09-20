@@ -1,6 +1,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bosaj/PRODIGY_ML_01/blob/main/House_Price_Prediction.ipynb)
 # PRODIGY_ML_01
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Bosaj/PRODIGY_ML_01) [![GitHub release](https://img.shields.io/github/v/release/Bosaj/PRODIGY_ML_01?color=blue&label=release)](https://github.com/Bosaj/PRODIGY_ML_01/releases) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
+
+
 <p align="center">
   <img src="assets/social_preview.png" alt="PRODIGY_ML_01 Banner" width="100%">
 </p>
