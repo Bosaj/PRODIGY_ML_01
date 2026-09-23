@@ -14,7 +14,6 @@
 
 ---
 
-![CI](https://github.com/Bosaj/PRODIGY_ML_01/actions/workflows/ci.yml/badge.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python](https://img.shields.io/badge/python-3.x-blue.svg)
 
@@ -60,7 +59,7 @@ The notebook loads `data/train.csv` and `data/test.csv`, trains the model, and w
 
 ## Testing / CI
 
-[`.github/workflows/ci.yml`](.github/workflows/ci.yml) validates the notebook's structural integrity and installs the full dependency set on every push.
+[`.github/workflows/ci_qa_monitoring.yml`](.github/workflows/ci_qa_monitoring.yml) validates the notebook's structural integrity and installs the full dependency set on every push.
 
 ## Project Structure
 
