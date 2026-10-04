@@ -21,8 +21,9 @@
 
 ---
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Python](https://img.shields.io/badge/python-3.x-blue.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-House%20Price%20Predictor-FF4B4B?style=flat&logo=streamlit&logoColor=white)](streamlit_app.py)
 
 Task 01 of the Prodigy InfoTech Machine Learning internship: predict house sale prices from structural features using linear regression.
 
